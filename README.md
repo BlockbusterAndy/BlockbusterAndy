@@ -1,25 +1,21 @@
-🌟 Tech-Driven MCA Candidate | MERN Web Developer | UI/UX Enthusiast 🚀
+# 💫 About Me:
+🌟 Tech-Driven MCA Candidate | MERN Web Developer | UI/UX Enthusiast 🚀<br><br>👋 Hello there! I'm currently on an exhilarating journey, transitioning from a Bachelor's in Financial Management to pursuing a Master's in Computer Applications (MCA) at Sinhgad Institute of Management. My passion lies in seamlessly merging management expertise with a profound understanding of technology.<br><br>💻 As a fervent MERN (MongoDB, Express.js, React.js, Node.js) Web Developer, I thrive on crafting immersive digital experiences. My proficiency extends beyond development, encompassing Web Design and a keen eye for UI/UX enhancements.
 
-👋 Hello there! I'm currently on an exhilarating journey, transitioning from a Bachelor's in Financial Management to pursuing a Master's in Computer Applications (MCA) at Sinhgad Institute of Management. My passion lies in seamlessly merging management expertise with a profound understanding of technology.
 
-💻 As a fervent MERN (MongoDB, Express.js, React.js, Node.js) Web Developer, I thrive on crafting immersive digital experiences. My proficiency extends beyond development, encompassing Web Design and a keen eye for UI/UX enhancements.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blockbusterandy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blockbusterandy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/blockbusterandy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BlockbusterAndy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@blockbusterandy) 
 
-🚀 Skills Snapshot:
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=blockbusterandy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=blockbusterandy&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=blockbusterandy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-MERN Stack Development
-Web Design & UI/UX
-Java | Python | Django
-Angular | Tailwind CSS
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=blockbusterandy&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
-📚 Education:
+---
+[![](https://visitcount.itsvg.in/api?id=blockbusterandy&icon=5&color=9)](https://visitcount.itsvg.in)
 
-Master of Computer Applications (MCA), Sinhgad Institute of Management (In Progress)
-Bachelor of Business Administration (BBA), with a focus on Financial Management
-
-💼 Bridging Management & Tech:
-Drawing from my BBA studies, I've honed management skills ranging from strategic thinking to project management. This fusion of disciplines uniquely positions me to navigate complex problem-solving scenarios.
-
-💬 Mission Statement:
-My goal? To excel at the intersection of management principles and technological innovation. I'm enthusiastic about embracing challenges head-on, eager to contribute meaningfully to the ever-evolving tech landscape.
-
-Let's connect and explore opportunities to collaborate on exciting projects that leverage my diverse skill set!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
