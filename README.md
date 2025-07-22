@@ -1,3 +1,6 @@
+<!-- Banner URL -->
+([https://](https://res.cloudinary.com/dzflqtsc4/image/upload/v1753187837/github-header-image_johgfr.png))
+
 # 💫 About Me:
 Full Stack Developer 🚀<br><br> Motivated Fullstack Developer with expertise in modern web technologies, including the MERN stack, Redux, Next.js, and Tailwind CSS. Adept at creating user-centric applications with a strong foundation in UI/UX principles and hands-on experience in projects like Bid Bazaar (an online auction platform). Skilled in managing end-to-end development, from frontend design to backend integration, ensuring optimal performance and a seamless user experience. Committed to continuous learning and delivering innovative solutions in web development.
 
