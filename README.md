@@ -23,7 +23,6 @@ I'm an enthusiastic and adaptable Full Stack Developer with a strong foundation 
 - 🤔 I’m looking for help with **Data Structures and Algorithms**.
 - 💬 Ask me about **React, Next.js, and the MERN stack**.
 - 📫 How to reach me: **aniketdj19@gmail.com**
-- ⚡ Fun fact: **I love to play video games!**
 
 ---
 
