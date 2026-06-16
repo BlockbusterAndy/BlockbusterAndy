@@ -4,15 +4,6 @@
   <img src="https://res.cloudinary.com/dzflqtsc4/image/upload/v1753191802/Banner_dpwly0.png" alt="Aniket Jadhav — Developer & Game Dev" width="100%" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/blockbusterandy">
-  <img src="https://komarev.com/ghpvc/?username=blockbusterandy&style=for-the-badge&color=0d1117&labelColor=161b22" alt="Profile views" />
-</a>
-<a href="https://github.com/blockbusterandy?tab=followers">
-  <img src="https://img.shields.io/github/followers/blockbusterandy?label=Followers&style=for-the-badge&logo=GitHub&color=0d1117&labelColor=161b22" alt="Followers" />
-</a>
-
 </div>
 
 ---
